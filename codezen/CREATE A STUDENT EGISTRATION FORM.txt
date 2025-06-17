@@ -1,0 +1,28 @@
+CREATE A STUDENT EGISTRATION FORM:
+
+the details are
+
+FIRST NAME
+LAST NAME
+AGE
+GENDER
+CONTACT NO
+COLLEGE NAME
+DEPARTMENT
+EMAIL
+
+             SUBMIT
+ 
+================================================================================
+       
+to change the font colour of the form
+There are 2 ways
+1)go to index.css=>inside body add color:blueviolet=>
+2)index.css
+label{
+color:red
+margin:300 something,top,left,right
+
+}
+3)index.css
+form{

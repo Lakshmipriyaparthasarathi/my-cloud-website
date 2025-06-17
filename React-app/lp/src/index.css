@@ -1,0 +1,19 @@
+body {
+  background-color:powderblue;
+  background-blend-mode: normal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+  align-items: center;
+  
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-weight: bold;
+  color: purple;
+  display: grid;
+  }
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'courier',
+    monospace;
+}

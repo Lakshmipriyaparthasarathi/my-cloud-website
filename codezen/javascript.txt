@@ -1,0 +1,8 @@
+javascript:
+
+give cd     To create a dynamic website or let's say we want to make our websites or wen=b application with lot of interaction by adding functionalities here we are use java script.
+Now to make those website more effective we are using one of the javascript library which is called react js
+
+JS X:
+
+It is js xml writing HTML inside javascript file

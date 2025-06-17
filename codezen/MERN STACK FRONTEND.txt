@@ -1,0 +1,36 @@
+   MERN STACK FRONTEND 
+[ Combo of html,css,js,react]
+NOTE:
+-> Dont touch any index files at the starting stage
+
+MERN USING VS CODE
+->2 imp folders in setting up mernstack envi
+1)PUBLIC FOLDER
+2)SRC FOLDER(Source)
+
+consider the combinations as separate books or combo books so that will be below index files
+1)index.html
+2)index.js
+3)index.css
+
+
+COMMANDS:
+desktop->create folder->name it as REACT-APP->in that path give cmd #To open cmd with the same folder path  
+npm i web vitals #to call
+npx create-react-app claret #to create app 
+give cd claret #setting directory
+code .#to open vs code
+in vs code -> new terminal->npm start
+(note: u got error creating the app in web so that the alternative is go to files>>react app>>jey>> just select node modules and in the search bar give cmd command >>> in cmd give npm start to create the page in chrome)
+
+
+To design the web page :
+In src folder>>app.js file>> in return command dlete the existing codes and type the code to design the web page.
+when giving <h1></h1> to <h6></h6> commands make sure to wrap them in <div></div> commands    if it is single <h1></h1> commands no need to wrap...
+
+INSERT IMAGES:
+
+download some images from the chrome and copythe pictures and put into the public folder....
+if u need to use the images without downloading means...just copy the link address of the image and and paste it after the same code src and save it...now u will get the output.
+
+Default port for react js is "localhost3000"
